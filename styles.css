@@ -1,0 +1,67 @@
+#p1 {
+
+  
+  font-size: medium;
+    background-color:#ff4a57 ;
+  }
+
+
+.nav-brand
+{
+  color: black;
+font-size: 25px;
+padding-left: 20px;
+}
+
+.nav-link
+{
+color:black;
+}
+
+.nav-link:hover {
+	color:#ff4a57;
+}
+
+.card-img {
+	height: 500px;	
+}
+
+#p2 {
+	position: relative;
+}
+
+.carousel-control-prev, .carousel-control-next {
+	top: 50% !important;
+	display: block !important;
+}
+.icont {
+ 
+	width: 20%;
+  color:#ffffff ;
+	background-color: red;
+  margin-left: -25px;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  position: relative;
+  z-index: 2;
+}
+
+.card-img-overlay {
+	top: 25% !important;
+	left: 10% !important;
+}
+
+.cart-count {
+	color: white;
+	background-color:#ff4a57;
+	padding: 1px 4px;
+	border-radius: 50%;
+}
+
+.row .col .item{
+	border: 1px solid white;
+	margin: 5px;
+	padding: 10px;
+}
+
+
